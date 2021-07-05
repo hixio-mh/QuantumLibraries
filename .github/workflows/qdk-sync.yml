@@ -3,7 +3,7 @@ name: Sync QDK repos
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   sync-repos:
